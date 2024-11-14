@@ -1,2 +1,2 @@
 # task_3
-build Tic-Tac-Toe Web application using html , css , javascript
+- I'm build Tic-Tac-Toe Web application using html , css , javascript.
